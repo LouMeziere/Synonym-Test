@@ -1,0 +1,2 @@
+Model name, vocabulary size, # of correct labels (C), # of questions answered without guessing (V), model accuracy (C/V) 
+word2vec-google-news-300, 3000000, 70, 79, 0.8860759493670886
