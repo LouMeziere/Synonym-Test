@@ -1,0 +1,9 @@
+word2vec-google-news-300, 3000000, 3, 4, 0.75
+twitter-50, 1193514, 4, 4, 1.0
+twitter-100, 1193514, 4, 4, 1.0
+crawl-subwords_300, 999999, 4, 4, 1.0
+wiki-giga_300, 400000, 3, 4, 0.75
+model-21058-100-50-details.model, 21058, 0, 4, 0.0
+model-21058-300-50-details.model, 21058, 0, 4, 0.0
+model-21058-100-100-details.model, 21058, 0, 4, 0.0
+model-21058-300-100-details.model, 21058, 0, 4, 0.0
